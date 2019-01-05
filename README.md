@@ -1,6 +1,9 @@
 # Releases
 
-Official Releases:
+Official Links:
+
+White Paper:
+https://github.com/pocdag/Releases/blob/master/POC%20whitepaper(EN).pdf
 
 Win64 Light Node Wallet:
 https://github.com/pocdag/Releases/blob/master/pocwallet.zip
