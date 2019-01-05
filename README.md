@@ -9,4 +9,4 @@ Win64 Light Node Wallet:
 https://github.com/pocdag/Releases/blob/master/pocwallet.zip
 
 CUDA Miner:
-https://github.com/pocdag/Releases/blob/master/PocMiner.zip
+https://github.com/pocdag/Releases/raw/master/PocMiner.zip
